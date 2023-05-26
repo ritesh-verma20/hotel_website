@@ -5,6 +5,44 @@
     font-family: sans-serif;
 }
 
+/* payment form */
+
+
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+fieldset {
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+.main_heading {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: rgb(240, 78, 78);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type="submit"]:hover {
+    background-color: #4caf84;
+}
+
+
+
+
 .background{
     background-color: #1a1328;
     width: 100%;
